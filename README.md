@@ -4,7 +4,8 @@ Este projeto consiste em um jogo de adivinhação desenvolvido utilizando HTML, 
 
 ## Objetivo
 
-O objetivo deste projeto é proporcionar uma experiência interativa onde o jogador deve adivinhar o número secreto gerado aleatoriamente entre 1 e 100. O jogo fornece dicas se o palpite é maior ou menor que o número secreto, permitindo tentativas ilimitadas até acertar.
+O objetivo deste projeto é proporcionar uma experiência interativa onde o jogador deve adivinhar o número secreto gerado aleatoriamente entre 1 e 100. 
+O jogo fornece dicas se o palpite é maior ou menor que o número secreto, permitindo tentativas ilimitadas até acertar.
 
 ## Funcionalidades
 
