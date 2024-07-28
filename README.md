@@ -51,4 +51,4 @@ Você pode acessar o jogo através do link: [Jogo do Número Secreto](https://jo
 
 ---
 
- _Powered by **_RkoLs_**_.
+ _Powered by **_RkoLs_**_
